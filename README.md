@@ -20,6 +20,7 @@ Panel · Eventos en tres categorías: cenas bailables (invitados, plano de mesas
 presupuesto, tarjetas, cronograma, ingreso en puerta), rifas (talonarios,
 grilla de números, sorteo en pantalla y acta) y remates (lotes, catálogo,
 remate en vivo, cobros y cartas a donantes) · Tareas con encargados · Socios ·
+Actas (buscador de temas, resumen de lo aprobado, carpetas y escaneo de cada acta) ·
 Colaboradores · Finanzas del club (ingresos, egresos, resultados y flujo de
 caja) · Reportes en Excel y PDF · Configuración.
 
